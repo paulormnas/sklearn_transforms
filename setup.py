@@ -13,8 +13,7 @@ setup(
       author_email='paulormnas@gmail.com',
       license='BSD',
       packages=[
-            'my_custom_sklearn_transforms',
-            'numpy'
+            'my_custom_sklearn_transforms'
       ],
       zip_safe=False
 )
