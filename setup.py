@@ -8,12 +8,13 @@ setup(
             This is a sample python package for encapsulating custom
             tranforms from scikit-learn into Watson Machine Learning
       ''',
-      url='https://github.com/vnderlev/sklearn_transforms/',
-      author='Vanderlei Munhoz',
-      author_email='vnderlev@protonmail.ch',
+      url='https://github.com/paulormnas/sklearn_transforms',
+      author='Paulo Nascimento',
+      author_email='paulormnas@gmail.com',
       license='BSD',
       packages=[
-            'my_custom_sklearn_transforms'
+            'my_custom_sklearn_transforms',
+            'numpy'
       ],
       zip_safe=False
 )
